@@ -1,1 +1,22 @@
-
+{
+	"@metadata": {
+		"authors": [
+			"Sophivorus"
+		]
+	},
+	"analytics": "Analytique",
+	"analytics-desc": "Analytique de conssultation et de contribution",
+	"analytics-last-30-days": "30 derniers jours",
+	"analytics-last-90-days": "90 derniers jours",
+	"analytics-last-365-days": "365 derniers jours",
+	"analytics-all-time": "Maximum",
+	"analytics-daily": "Journalière",
+	"analytics-monthly": "Mensuelle",
+	"analytics-filter": "Filtrer par page ou categorie...",
+	"analytics-views": "Vues",
+	"analytics-edits": "Modification",
+	"analytics-editors": "Contributeurs",
+	"analytics-top-editors": "Meilleurs Contributeurs",
+	"analytics-top-editors-user": "Utilisateur",
+	"analytics-top-editors-edits": "Contributions"
+}
